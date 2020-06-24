@@ -1,2 +1,2 @@
 # Calculator-using-Java-Framework
-It's an Java based program using Swing framework.
+It's a Java based program using Swing framework.
